@@ -1,0 +1,14 @@
+{
+  "name": "civele-server",
+  "version": "1.0.0",
+  "description": "Backend de la plataforma CIVELE",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "seed": "node database/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

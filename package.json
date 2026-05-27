@@ -1,0 +1,12 @@
+{
+  "name": "civele",
+  "version": "1.0.0",
+  "description": "Plataforma CIVELE - Gestion de Inventario con IA",
+  "scripts": {
+    "dev:client": "npm run dev --prefix client",
+    "dev:server": "npm start --prefix server",
+    "dev": "start cmd /k npm run dev:server && start cmd /k npm run dev:client",
+    "seed": "npm run seed --prefix server",
+    "install:all": "npm install --prefix client && npm install --prefix server"
+  }
+}

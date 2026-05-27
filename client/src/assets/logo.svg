@@ -1,0 +1,14 @@
+<svg width="140" height="36" viewBox="0 0 140 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icono: dos nodos conectados representando cliente-proveedor -->
+  <circle cx="10" cy="18" r="7" fill="#2563EB"/>
+  <circle cx="10" cy="18" r="3.5" fill="white"/>
+  <circle cx="28" cy="10" r="5" fill="#2563EB" opacity="0.7"/>
+  <circle cx="28" cy="26" r="5" fill="#2563EB" opacity="0.7"/>
+  <!-- Lineas de conexion -->
+  <line x1="17" y1="14" x2="24" y2="11" stroke="#2563EB" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="17" y1="22" x2="24" y2="25" stroke="#2563EB" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Punto de conexion central -->
+  <circle cx="10" cy="18" r="1.5" fill="#2563EB"/>
+  <!-- Texto CIVELE -->
+  <text x="40" y="23" font-family="Inter, -apple-system, sans-serif" font-size="18" font-weight="800" fill="#1E293B" letter-spacing="-0.5">CIVELE</text>
+</svg>
